@@ -1,0 +1,8 @@
+[24-Mar-2023 09:49:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_url() in /home1/mapas584/public_html/itacaiunas.com.br/wp-content/plugins/gerar-cutter-v1/html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/mapas584/public_html/itacaiunas.com.br/wp-content/plugins/gerar-cutter-v1/html/index.php on line 3
+[24-Mar-2023 09:50:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_url() in /home1/mapas584/public_html/itacaiunas.com.br/wp-content/plugins/gerar-cutter-v1/html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/mapas584/public_html/itacaiunas.com.br/wp-content/plugins/gerar-cutter-v1/html/index.php on line 3

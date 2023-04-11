@@ -1,0 +1,4 @@
+[24-Mar-2023 09:50:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/mapas584/public_html/itacaiunas.com.br/wp-content/plugins/gerar-cutter-v1/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/mapas584/public_html/itacaiunas.com.br/wp-content/plugins/gerar-cutter-v1/index.php on line 15
